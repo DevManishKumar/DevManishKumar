@@ -37,8 +37,6 @@
  <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
  <img alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="django" src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- <img alt="django" src =" https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- <img alt="django" src =" https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
  
  
  <div align="center">
