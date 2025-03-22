@@ -6,7 +6,7 @@
  <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%DevManishKumar%2Fhit-counter" />
  
  -💪 Currently working as a Software Engineer. <br/>
- -💼 1.5 years of experience as full stack developer <br/>
+ -💼 1.8 years of experience as full stack developer <br/>
  -📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanishkumar-0a9769aa/)](https://www.linkedin.com/in/devmanishkumar/)
  
 
