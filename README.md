@@ -1,12 +1,5 @@
 <div>
-## Hi Everyone 👋 I am Manish Kumar 🔭  
-
-<!-- Visitor count badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
-
-<!-- Hits counter badge -->
-<img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevManishKumar" />
-
+## Hi Everyone 👋 I am Manish Kumar 🔭  ![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
 - 💪 Currently working as a Software Engineer.  
 - 💼 1.8 years of experience as a full stack developer.  
 - 📫 How to reach me:  
