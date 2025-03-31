@@ -1,5 +1,6 @@
 <div>
-## Hi Everyone 👋 I am Manish Kumar 🔭  ![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
+## Hi Everyone 👋 I am Manish Kumar 🔭  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
 - 💪 Currently working as a Software Engineer.  
 - 💼 1.8 years of experience as a full stack developer.  
 - 📫 How to reach me:  
