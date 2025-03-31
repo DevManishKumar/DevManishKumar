@@ -1,7 +1,7 @@
 <div>
 ## Hi Everyone 👋 I am Manish Kumar 🔭  
  
-<!--  ![Visitor Count](https://profile-counter.glitch.me/DevManishKumar/count.svg) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
 
  <img alt="Hit" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%DevManishKumar%2Fhit-counter" />
  
