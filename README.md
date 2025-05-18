@@ -7,7 +7,7 @@
 ![Hits](https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views&extraCount=1551)
 
 - 💪 Currently working as a Software Engineer.  
-- 💼 1.8 years of experience as a full stack developer.  
+- 💼 2 years of experience as a full stack developer.  
 - 📫 How to reach me:  
   [![Linkedin Badge](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanishkumar-0a9769aa/)](https://www.linkedin.com/in/devmanishkumar-0a9769aa/)
 
