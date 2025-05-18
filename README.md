@@ -12,8 +12,6 @@
   </a>
 </p>
 
-## 🌐 Portfolio
-
 <p align="center">
   <a href="https://devmanishkr.vercel.app" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=440&lines=Welcome+to+my+Portfolio;Explore+my+projects+and+skills!" alt="Typing SVG" />
