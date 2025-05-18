@@ -1,89 +1,43 @@
-<div>
-## Hi Everyone 👋 I am Manish Kumar 🔭  
+<h1 align="center">Hi Everyone 👋, I'm <span style="color:#00bcd4;">Manish Kumar</span> 🔭</h1>
+<p align="center">
+  <img src="https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views" />
+</p>
+<p align="center">
+  💪 Software Engineer | 💼 2 Years Experience | 🧠 Full Stack Developer
+</p>
 
-<!-- Visitor count badge -->
-<!-- ![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
--->
-![Hits](https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views)
-
-- 💪 Currently working as a Software Engineer.  
-- 💼 2 years of experience as a full stack developer.  
-- 📫 How to reach me:  
-  [![Linkedin Badge](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanishkumar-0a9769aa/)](https://www.linkedin.com/in/devmanishkumar-0a9769aa/)
-
-
- 
-
- Languages and Tools: 
- <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> 
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
- <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ED8B00?style=flat-square&logo=javascript&logoColor=white"/> 
- <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> 
- <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
- <img alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
- <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
- <img alt="antdesign" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=%2361DAFB"/>
- <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img alt="mui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
- <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
- <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> 
- <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
- <img alt="GraphQl" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"/> 
- <img alt="ApolloGraphQl" src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white"/> 
- <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> 
- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
- <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> 
- <img alt="docker" src ="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/> 
- <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
- <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
- <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
- <img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
- <img alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="django" src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
- 
- 
- <div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=devmanishkumar&column=5"/>
- <div/>
-  <br/>
- 
-  
-<!-- <a href="https://github.com/devmanishkumar">
- <img align="center" width=300  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanishkumar&theme=dracula&langs_count=4" />
- </a> -->
- <div align="center">
-     <a href="https://github.com/devmanishkumar">
-       <img align="center" width=325 src="https://github-readme-stats.vercel.app/api?username=devmanishkumar&count_private=true&theme=dracula" /> 
-     </a>
- <a href="https://github.com/devmanishkumar">
-  <img align="center" width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=devmanishkumar&theme=dracula" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/devmanishkumar-0a9769aa/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
- <div/>
-  <br/>
-  
-  <div align="center">
-   
-  ![Manish Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanishkumar&layout=compact&theme=radical)
+</p>
 
-<!--     <div/>    -->
-  <br/>
-     
-  <div/>
- 
+## 🚀 Languages & Tools
 
-<!--
-**devmanishkumar/devmanishkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,redux,tailwind,materialui,bootstrap,nodejs,express,ts,graphql,mongodb,postgres,docker,jenkins,jira,ubuntu,windows,postman,python,django&perline=9" />
+</p>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats & Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=devmanishkumar&show_icons=true&theme=dracula&count_private=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=devmanishkumar&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmanishkumar&layout=compact&theme=radical" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devmanishkumar&theme=dracula&column=6&margin-w=15" />
+</p>
+
+---
+
+<p align="center">
+  Built with ❤️ by <strong>Manish Kumar</strong>
+</p>
+
