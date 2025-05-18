@@ -12,6 +12,21 @@
   </a>
 </p>
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://devmanishkr.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=440&lines=Welcome+to+my+Portfolio;Explore+my+projects+and+skills!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://devmanishkr.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%2300C896?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio badge" />
+  </a>
+</p>
+
+
 ## 🚀 Languages & Tools
 
 <p align="center">
@@ -33,20 +48,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devmanishkumar&theme=dracula&column=6&margin-w=15" />
-</p>
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://devmanishkr.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=440&lines=Welcome+to+my+Portfolio;Explore+my+projects+and+skills!" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://devmanishkr.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-%2300C896?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio badge" />
-  </a>
 </p>
 
 ---
