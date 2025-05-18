@@ -4,7 +4,7 @@
 <!-- Visitor count badge -->
 <!-- ![Visitor Count](https://komarev.com/ghpvc/?username=DevManishKumar&color=brightgreen)
 -->
-![Hits](https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views&extraCount=1551)
+![Hits](https://hits.sh/github.com/DevManishKumar/DevManishKumar.svg?style=flat-square&label=Profile%20Views)
 
 - 💪 Currently working as a Software Engineer.  
 - 💼 2 years of experience as a full stack developer.  
